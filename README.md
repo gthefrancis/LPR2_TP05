@@ -2,7 +2,7 @@
 **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) – Câmpus Cubatão**  
 **Disciplina:** LP2 (Java) – ADS 471  
 **Professor:** Wellington Tuler Moraes  
-
+Desenvolvido por: Guilherme Bertero e Guilherme Francisco
 ---
 
 ## 📋 Sobre o Projeto
